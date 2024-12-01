@@ -523,7 +523,6 @@ class Keyboard {
 
       document.dispatchEvent(new KeyboardEvent("keyup", dispatchEventConfig));
       setTimeout(() => {
-        console.log("fired");
         // e.target.classList.remove("pressed");
       }, 1000);
     }
@@ -565,7 +564,7 @@ class Keyboard {
       elem = document.querySelector(`.key[data-label = "\\${keyLabel}"]`);
       return elem;
     }
-    elem = document.querySelector(`.key[data-label = "${keyLabel}"]`);
+    elem = document.querySelector(`.key[data-label = "\\${keyLabel}"]`);
     return elem;
   }
 

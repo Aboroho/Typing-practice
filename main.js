@@ -187,7 +187,7 @@ const data = [
     text: "Success is not achieved overnight. It requires persistence, hard work, and resilience. Keep moving forward, even when the path seems unclear. Every step you take is a step closer to your goals, and every setback is a lesson in growth.",
   },
   {
-    text: "Believe in yourself even when others don’t. Your potential is limitless, and the obstacles you face today are simply stepping stones to a brighter tomorrow. Trust the process, stay focused, and remember that your dreams are worth every effort.",
+    text: "Believe in yourself even when others don't. Your potential is limitless, and the obstacles you face today are simply stepping stones to a brighter tomorrow. Trust the process, stay focused, and remember that your dreams are worth every effort.",
   },
   {
     text: "The greatest accomplishments come not from avoiding challenges, but from facing them head-on. Embrace the difficulties, for they build your character, test your strength, and ultimately lead you to the success you seek.",
@@ -199,25 +199,25 @@ const data = [
     text: "Success is not measured by what you achieve, but by the courage to keep going when everything seems impossible. Every challenge you overcome, every doubt you silence, brings you one step closer to becoming the person you were meant to be.",
   },
   {
-    text: "The road to success is not a straight path. It’s filled with twists, turns, and bumps along the way. But each setback is an opportunity to learn, grow, and come back stronger. Stay patient and persistent, and success will eventually follow.",
+    text: "The road to success is not a straight path. It's filled with twists, turns, and bumps along the way. But each setback is an opportunity to learn, grow, and come back stronger. Stay patient and persistent, and success will eventually follow.",
   },
   {
-    text: "In the face of adversity, the difference between those who succeed and those who fail is often the decision to keep going. Don’t let fear or doubt control your journey. Push through, keep moving forward, and trust that success will find you.",
+    text: "In the face of adversity, the difference between those who succeed and those who fail is often the decision to keep going. Don't let fear or doubt control your journey. Push through, keep moving forward, and trust that success will find you.",
   },
   {
-    text: "Your potential is far greater than any temporary setback. Keep pushing forward, even when things don’t seem to be going your way. The challenges you face today will prepare you for the success you will achieve tomorrow.",
+    text: "Your potential is far greater than any temporary setback. Keep pushing forward, even when things don't seem to be going your way. The challenges you face today will prepare you for the success you will achieve tomorrow.",
   },
   {
-    text: "The key to success lies in the ability to stay focused when things get tough. Never lose sight of your dreams, and don’t let obstacles distract you from your path. Your hard work and persistence will eventually lead you to the victory you deserve.",
+    text: "The key to success lies in the ability to stay focused when things get tough. Never lose sight of your dreams, and don't let obstacles distract you from your path. Your hard work and persistence will eventually lead you to the victory you deserve.",
   },
   {
-    text: "The difference between those who succeed and those who don’t is simple: perseverance. Keep your eyes on the prize, no matter how many challenges you face. Your dedication and effort will ultimately pay off in ways you can’t yet imagine.",
+    text: "The difference between those who succeed and those who don't is simple: perseverance. Keep your eyes on the prize, no matter how many challenges you face. Your dedication and effort will ultimately pay off in ways you can't yet imagine.",
   },
   {
     text: "Your journey to success will not always be easy, but it will always be worth it. Keep fighting for your dreams, even when the road is tough. The best things in life rarely come easily, but they are always worth the effort.",
   },
   {
-    text: "Every great achievement was once considered impossible. Don’t let the challenges ahead discourage you. Keep moving forward with passion, determination, and the belief that your dreams are worth fighting for.",
+    text: "Every great achievement was once considered impossible. Don't let the challenges ahead discourage you. Keep moving forward with passion, determination, and the belief that your dreams are worth fighting for.",
   },
   {
     text: "In the pursuit of greatness, there will always be obstacles. But it is your resilience, your ability to adapt and overcome, that will ultimately determine your success. Embrace the challenges and keep striving forward – the finish line is closer than you think.",
@@ -226,34 +226,34 @@ const data = [
     text: "You are capable of achieving more than you think. The limits you face are only temporary, and every challenge is an opportunity to unlock a new level of growth. Keep pushing yourself, stay focused, and the results will speak for themselves.",
   },
   {
-    text: "Don’t be afraid to fail. Failure is not the opposite of success; it’s a part of it. Every setback teaches you something valuable and brings you closer to your ultimate goal. Embrace failure as a stepping stone to your success.",
+    text: "Don't be afraid to fail. Failure is not the opposite of success; it's a part of it. Every setback teaches you something valuable and brings you closer to your ultimate goal. Embrace failure as a stepping stone to your success.",
   },
   {
-    text: "The biggest mistake you can make is not starting. Don’t wait for the perfect moment or the right conditions. Start now, take action, and let the momentum carry you. Every step forward brings you closer to the person you’re meant to be.",
+    text: "The biggest mistake you can make is not starting. Don't wait for the perfect moment or the right conditions. Start now, take action, and let the momentum carry you. Every step forward brings you closer to the person you're meant to be.",
   },
   {
-    text: "Success doesn’t come from luck or chance; it comes from relentless effort. Work hard, stay focused, and keep your eyes on the prize. Every hour you invest, every challenge you face, is building a foundation for your success.",
+    text: "Success doesn't come from luck or chance; it comes from relentless effort. Work hard, stay focused, and keep your eyes on the prize. Every hour you invest, every challenge you face, is building a foundation for your success.",
   },
   {
-    text: "Greatness isn’t achieved by avoiding challenges, but by overcoming them. Life will test your limits, but each time you push through, you’ll grow stronger. Keep going, and remember that your hard work and perseverance will lead you to success.",
+    text: "Greatness isn't achieved by avoiding challenges, but by overcoming them. Life will test your limits, but each time you push through, you'll grow stronger. Keep going, and remember that your hard work and perseverance will lead you to success.",
   },
   {
     text: "No matter how many times you fall, what matters is how many times you get up. Each fall is a lesson, and each lesson brings you closer to your goals. Keep getting up, keep moving forward, and success will eventually follow.",
   },
   {
-    text: "Success is a journey, not a destination. It’s about embracing every step, learning from every setback, and staying committed to your dreams. The road may be long, but each effort you put in brings you closer to the success you deserve.",
+    text: "Success is a journey, not a destination. It's about embracing every step, learning from every setback, and staying committed to your dreams. The road may be long, but each effort you put in brings you closer to the success you deserve.",
   },
   {
-    text: "Don’t let fear hold you back from pursuing your dreams. The only limits that exist are the ones you place on yourself. Break free from self-doubt, take that first step, and trust that the path ahead will reveal itself as you continue moving forward.",
+    text: "Don't let fear hold you back from pursuing your dreams. The only limits that exist are the ones you place on yourself. Break free from self-doubt, take that first step, and trust that the path ahead will reveal itself as you continue moving forward.",
   },
   {
-    text: "Your potential is limitless, and every day is a new opportunity to realize it. Don’t let challenges discourage you; use them as fuel to push harder, to be better, and to strive for greatness. Your success is within reach if you keep going.",
+    text: "Your potential is limitless, and every day is a new opportunity to realize it. Don't let challenges discourage you; use them as fuel to push harder, to be better, and to strive for greatness. Your success is within reach if you keep going.",
   },
   {
     text: "The hardest part is often taking the first step, but once you do, the momentum will carry you. Keep moving forward, even when things get tough. You have the strength within you to overcome any obstacle and achieve greatness.",
   },
   {
-    text: "Dreams don’t work unless you do. Success is not something that happens to you; it’s something you create with your hard work, determination, and persistence. Keep pushing forward, and don’t stop until you’ve achieved everything you’ve set out to accomplish.",
+    text: "Dreams don't work unless you do. Success is not something that happens to you; it's something you create with your hard work, determination, and persistence. Keep pushing forward, and don't stop until you've achieved everything you've set out to accomplish.",
   },
   {
     text: "Obstacles are not roadblocks; they are opportunities in disguise. Every challenge you face is a chance to grow, learn, and improve. Stay focused, keep moving forward, and use every difficulty as a stepping stone towards your success.",
