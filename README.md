@@ -19,3 +19,5 @@ A simple typing practice app built with vanilla JavaScript to help you improve y
 ## Demo
 
 ![Typing Practice App Screenshot](./screenshot.jpg)
+
+[Visit the Typing Practice App](https://mr-typer.vercel.app/)
