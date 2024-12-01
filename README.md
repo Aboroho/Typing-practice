@@ -17,7 +17,8 @@ A simple typing practice app built with vanilla JavaScript to help you improve y
 4. After completing the challenge, the app provides your final statistics.
 
 ## Demo
+<a href="https://mr-typer.vercel.app/" target="_blank" style="display: inline-block; background-color: #4CAF50; color: white; padding: 10px 20px; text-align: center; border-radius: 5px; text-decoration: none; font-weight: bold;">Visit Typing Practice App</a>
 
 ![Typing Practice App Screenshot](./screenshot.jpg)
 
-[Visit the Typing Practice App](https://mr-typer.vercel.app/)
+
