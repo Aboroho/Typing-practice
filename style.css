@@ -1,0 +1,137 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  font-family: "Poppins", sans-serif;
+  background-color: #09151a;
+}
+
+.container {
+  max-width: 1148px;
+  margin: 0 auto;
+  padding: 16px;
+}
+
+h1 {
+  text-align: center;
+  font-family: sans-serif;
+  color: #fff;
+}
+.text {
+  font-size: 32px;
+  color: #dfdfdf;
+  font-family: "Poppins", sans-serif;
+  padding: 20px;
+  border: 1px solid #888;
+  line-height: 1.5;
+  letter-spacing: 1px;
+}
+
+.correct {
+  /* background-color: rgba(92, 189, 92, 0.651); */
+  color: #66f366;
+  /* padding : 0 4px; */
+  /* width: 16px; */
+}
+
+.correct.modified {
+  /* background: rgba(245, 221, 6, 0.829); */
+  color: #7e9e74;
+}
+
+.wrong {
+  /* background-color: rgba(226, 93, 93, 0.699);
+    width: 16p
+    color : #333; */
+  color: #f36767;
+}
+
+.not-typed-yet.modified {
+  background-color: #999e674d;
+}
+
+@keyframes blink {
+  0%,
+  49% {
+    background: #ca49ff;
+    color: #fff;
+  }
+  50%,
+  100% {
+    background: #fff;
+    color: #333;
+  }
+}
+
+.active {
+  animation: blink 1s infinite;
+}
+
+.card {
+  padding: 12px 48px;
+  background: #007a80;
+  color: #fff;
+  font-family: sans-serif;
+  display: inline-block;
+  border-radius: 8px;
+}
+
+.card .speed {
+  font-size: 36px;
+  display: inline-block;
+  margin-bottom: 4px;
+}
+
+/* input.hidden{
+    display: none;
+} */
+
+/* ============================= */
+/* ================keyboard ============= */
+
+.keyboard-container {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+
+.keyboard-row {
+  display: flex;
+  gap: 8px;
+  flex-wrap: nowrap;
+}
+
+.key {
+  padding: 8px 0;
+  flex-grow: 1;
+  font-size: 20px;
+  border: 1px solid #ddd;
+  border-bottom: 2px solid #ddd;
+  border-radius: 8px;
+  text-align: center;
+  background-color: #aec5c9;
+  user-select: none;
+  cursor: pointer;
+}
+
+.key[data-label="Space"] {
+  flex-grow: 6;
+}
+
+.pressed {
+  background: #3e6aa1;
+  color: #fff;
+  font-weight: 500;
+  transition: 0.1s;
+}
+
+.key[data-label="Enter"],
+.key[data-label="Shift"] {
+  flex-grow: 2;
+}
+
+.key:focus {
+  background: #ddd;
+}
