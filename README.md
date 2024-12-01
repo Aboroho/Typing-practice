@@ -18,4 +18,4 @@ A simple typing practice app built with vanilla JavaScript to help you improve y
 
 ## Demo
 
-![Typing Practice App Screenshot](./screenshot.png)
+![Typing Practice App Screenshot](./screenshot.jpg)
